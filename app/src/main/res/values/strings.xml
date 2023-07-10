@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="previous_btn">Previous</string>
+    <string name="next_btn">Next</string>
+    <string name="content_description_1">Picture 1</string>
+    <string name="content_description_2">Picture 2</string>
+    <string name="content_description_3">Picture 3</string>
+    <string name="content_description_4">Picture 4</string>
+    <string name="content_description_5">Picture 5</string>
+    <string name="content_description_6">Picture 6</string>
+    <string name="content_description_7">Picture 7</string>
+    <string name="content_description_8">Picture 8</string>
+    <string name="content_description_9">Picture 9</string>
+    <string name="content_description_10">Picture 10</string>
+    <string name="picture_name_1">Flowers in a Metal Vase</string>
+    <string name="picture_name_2">Painting on top of the Palace of Versailles</string>
+    <string name="picture_name_3">Mural</string>
+    <string name="picture_name_4">Vincent Van Gogh self portrait painting on wall</string>
+    <string name="picture_name_5">The Ha\'Penny Bridge Dublin</string>
+    <string name="picture_name_6">Harvest Fields in Westerham</string>
+    <string name="picture_name_7">Lithuanian Girl with Palm Sunday Fronds</string>
+    <string name="picture_name_8">The Champion</string>
+    <string name="picture_name_9">Three Peaches on a Stone Plinth</string>
+    <string name="picture_name_10">A Roman Water Carrier</string>
+    <string name="author_1">"Abraham Mignon "</string>
+    <string name="author_2">"Michael Angelo "</string>
+    <string name="author_3">"Dan Farrell "</string>
+    <string name="author_4">"Vincent Van Gogh "</string>
+    <string name="author_5">"Samuel Frederick Brocas "</string>
+    <string name="author_6">"Helen Allingham "</string>
+    <string name="author_7">"Kanutas Ruseckas "</string>
+    <string name="author_8">"Sir Charles Lock Eastlake "</string>
+    <string name="author_9">"Rijksmuseum "</string>
+    <string name="author_10">"Carl Haag "</string>
+</resources>
